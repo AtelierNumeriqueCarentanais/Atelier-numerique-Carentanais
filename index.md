@@ -1,3 +1,7 @@
+# Bienvenue sur le Wiki de l'association
+
+Ici vous trouverez toutes les informations sur l'association ainsi que ses projets.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AtelierNumeriqueCarentanais/wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
