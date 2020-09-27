@@ -7,7 +7,7 @@ Créé en 2020 **l'Atelier Numérique Carentanais** reprend le flambeau de l'ass
 |    Date    |                            Titre                             |
 | :--------: | :----------------------------------------------------------: |
 | 26-09-2020 | [Assemblée constituante](26_09_2020_assemblee_constituante.md) |
-| 26-09-2020 |       [Status de l'association](26_09_2020_status.md)        |
+| 26-09-2020 |       [Status de l'association](26_09_2020_statuts.md)       |
 |            |                                                              |
 |            |                                                              |
 
