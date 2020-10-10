@@ -24,7 +24,7 @@
 
 | Logiciels 3D et outils associés        |
 | -------------------------------------- |
-| Imprimer avec une imprimante 3D (todo) |
+| [Imprimer avec une imprimante 3D](imprimante3d.md) |
 |                                        |
 |                                        |
 |                                        |
