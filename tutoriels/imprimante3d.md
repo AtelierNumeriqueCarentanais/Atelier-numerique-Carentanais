@@ -1,6 +1,15 @@
 
 # Utilisation d'une imprimante 3D
 
+- avec l'outil slic3r 
+  - ouvrir un model 3D OBJ ou PLY
+  - charger la config pour l'imprimante (File > Load config)
+  - generer le g-code
+- avec pronterFace 
+  - se connecter a l'imprimante en 115200 Bauds
+  - ouvrir le fichier g-code
+  - lancer l'impression
+
 
 
 # Changer le fil 
