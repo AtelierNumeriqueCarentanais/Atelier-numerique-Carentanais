@@ -16,5 +16,5 @@
 
 - Allumer l'imprimante
 - faire chauffer la buse
-- glisser le fil dans le tube puis lz faire remonter jusqu'a la buse et que tu fil blanc chuad sorte.
+- glisser le fil dans le tube puis le faire remonter jusqu'a la buse et que du fil chaud de la couleur précédente sorte.
 
