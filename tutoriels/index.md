@@ -15,7 +15,7 @@
 | Electronique, robotique, mécanique,... |
 | -------------------------------------- |
 | Utilisation d'un fer a souder (todo)   |
-|                                        |
+| [La base de git](base_git.md)          |
 |                                        |
 |                                        |
 |                                        |
