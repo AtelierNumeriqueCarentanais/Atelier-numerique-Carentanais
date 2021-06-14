@@ -2,7 +2,7 @@
 
 - git clone url
 
-dossier caché .git
+   dossier caché .git pour la mécanique interne
 
 - gitk
     - affiche une fenetre, avec des entrées dans un arbre, les entrées sont datées, cliquer dessus pour voir ce que a été fait à chaque date
