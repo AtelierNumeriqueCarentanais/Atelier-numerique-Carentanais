@@ -1,3 +1,5 @@
+# La base de git
+
 - git clone url
 
 dossier caché .git
